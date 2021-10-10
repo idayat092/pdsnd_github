@@ -7,7 +7,10 @@
 Analysis of Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+This project analyses bikeshare data for Washington, Chicago and New York city to draw insights such as:
+What percentage of the users use same station as start and end?
+What is the relationship between age and trip duration?
+What is the relationship between gender and trip duration?
 
 ### Files used
 Include the files used
